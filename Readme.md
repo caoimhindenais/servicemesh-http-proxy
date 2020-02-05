@@ -35,7 +35,7 @@ __Results__
 
 __References__
 
-[1]: https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio 
+[1]: https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio <br/>
 [2]: https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/ <br/>
 [3]: https://medium.com/@awkwardferny/getting-started-with-kubernetes-ingress-nginx-on-minikube-d75e58f52b6c <br/>
 
