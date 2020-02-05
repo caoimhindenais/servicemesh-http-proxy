@@ -33,7 +33,7 @@ __Results__
 
 
 
-_References_
+__References__
 
 [1]: https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio 
 [2]: https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/ <br/>
