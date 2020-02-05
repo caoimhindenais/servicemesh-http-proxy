@@ -3,7 +3,7 @@
 
 __Background__
 
-After reading Venil Noronha's tutorial [5] [5] (thanks!), I rolled my own sidecar proxy :-)
+After reading Venil Noronha's tutorial [5] (5) (thanks!), I rolled my own sidecar proxy :-)
 
 However I changed two things
 1. You can configure ingress to route traffic to your service without the need to send requests from inside of the Kubernetes network
@@ -38,8 +38,8 @@ __Prerequisites__
 
 _References_
 
-[3] [Understanding-kubernetes-networking-model] (https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)<br/>
-[4] [Getting started with kubernetes ingress nginx on minikube] (https://medium.com/@awkwardferny/getting-started-with-kubernetes-ingress-nginx-on-minikube-d75e58f52b6c) <br/>
-[5] [Hand crafting a sidecar proxy and demystifying istio] (https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio)
+[3] https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/ <br/>
+[4]: https://medium.com/@awkwardferny/getting-started-with-kubernetes-ingress-nginx-on-minikube-d75e58f52b6c <br/>
+[5]: https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio 
 
 
