@@ -1,5 +1,6 @@
 # Sidecar proxies, the heart of a servicemesh
 
+[1](1)
 
 __Background__
 
@@ -32,13 +33,13 @@ __Results__
 
 __Prerequisites__
 
-[1] [minikube] (https://kubernetes.io/docs/tasks/tools/install-minikube/) <br/>
-[2] [golang] (https://golang.org/doc/install) <br/>
-[3] [adoptopenjdk] (https://adoptopenjdk.net)
+[1]: https://kubernetes.io/docs/tasks/tools/install-minikube/ <br/>
+[2]: https://golang.org/doc/install) <br/>
+[3]: https://adoptopenjdk.net
 
 _References_
 
-[3] https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/ <br/>
+[3]: https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/ <br/>
 [4]: https://medium.com/@awkwardferny/getting-started-with-kubernetes-ingress-nginx-on-minikube-d75e58f52b6c <br/>
 [5]: https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio 
 
