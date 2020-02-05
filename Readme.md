@@ -32,7 +32,7 @@ __Results__
 
 __Prerequisites__
 
-[1]: [minikube] (https://kubernetes.io/docs/tasks/tools/install-minikube/) <br/>
+[1] [minikube] (https://kubernetes.io/docs/tasks/tools/install-minikube/) <br/>
 [2] [golang] (https://golang.org/doc/install) <br/>
 [3] [adoptopenjdk] (https://adoptopenjdk.net)
 
@@ -40,6 +40,6 @@ _References_
 
 [3] [Understanding-kubernetes-networking-model] (https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)<br/>
 [4] [Getting started with kubernetes ingress nginx on minikube] (https://medium.com/@awkwardferny/getting-started-with-kubernetes-ingress-nginx-on-minikube-d75e58f52b6c) <br/>
-[5]: [Hand crafting a sidecar proxy and demystifying istio] (https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio)
+[5] [Hand crafting a sidecar proxy and demystifying istio] (https://venilnoronha.io/hand-crafting-a-sidecar-proxy-and-demystifying-istio)
 
 
