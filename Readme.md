@@ -3,7 +3,7 @@
 
 __Background__
 
-After reading Venil Noronha's tutorial ![5] (thanks!), I rolled my own sidecar proxy :-)
+After reading Venil Noronha's tutorial [5] [5] (thanks!), I rolled my own sidecar proxy :-)
 
 However I changed two things
 1. You can configure ingress to route traffic to your service without the need to send requests from inside of the Kubernetes network
@@ -18,7 +18,6 @@ __User Story__
 
 My userstory was protecting a village (i.e a SpringBoot rest service) against Dragons \o/
 
-![Usecase Context Diagram](./http-proxy.jpg)
 
 ![Alt Text](./http-proxy.gif)
 
