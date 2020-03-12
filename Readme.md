@@ -15,7 +15,7 @@ In summary to create a service mesh on Kubernetes you need
 2.  An iptable rule to direct network traffic to your proxy
 3.  A proxy where you implment your business logic
 
-More notes : https://medium.com/@caoimhin.denais/kafka-proxies-and-service-meshes-8218353dac50
+More notes : https://medium.com/@caoimhin.denais/kafka-proxies-and-service-meshes-8218353dac50 <br/>
 __User Story__
 
 My userstory was protecting a village (i.e a SpringBoot rest service) against Dragons \o/
